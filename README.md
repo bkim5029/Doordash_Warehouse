@@ -1,5 +1,5 @@
 # SQLWarehouse_modeling
-Creating a Snowflake schema data warehouse using fact and dimension table.
+Designing a data warehouse using Snowflake schema and facts and dimensions table.
 
 **Dimension table**: Stores description data that are related to facts.
 
