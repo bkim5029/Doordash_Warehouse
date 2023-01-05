@@ -1,5 +1,8 @@
-# SQLWarehouse_modeling
-Designing a data warehouse using Snowflake schema and facts and dimensions table.
+# DoorDash data warehouse
+This project will
+1. Designing a data warehouse using Snowflake schema and facts and dimensions table.
+2. Insert data using SQL commands
+3. Answering business questions by querying datas
 
 **Dimension table**: Stores description data that are related to facts.
 
